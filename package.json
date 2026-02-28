@@ -1,0 +1,16 @@
+{
+  "name": "yates-county-courthouse-guide",
+  "version": "1.0.0",
+  "description": "Comprehensive guide to the Yates County Courthouse in Penn Yan, NY",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static HTML' && exit 0"
+  },
+  "keywords": [
+    "legal",
+    "courthouse",
+    "yates-county"
+  ],
+  "author": "Isabela Brook",
+  "license": "ISC"
+}
